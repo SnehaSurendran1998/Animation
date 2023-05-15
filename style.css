@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to top, #09203f 100%, #537895 100%);
+}
+#mytext{
+    color: whitesmoke;
+    
+}
+h1{
+    
+    background-color:rgb(91, 55, 11);
+    margin-top: 80px !important;
+    padding: 15px ;
+    border-radius: 5px;
+    font-weight: bolder !important;
+    
+}
+img{
+    width: 800px;
+    height: 700px;
+    border-radius: 10px;
+}
